@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @juvetus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @juvet
+- 👀 I’m interested in Sofware Development
+- 🌱 I’m currently learning JAVA, C# .Net, Javascript, Angular
+- 💞️ I’m looking to collaborate on Sofware Development
+- 📫 How to reach me : https://juvetinvest.com
 
-<!---
-juvetus/juvetus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
